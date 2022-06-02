@@ -3,7 +3,7 @@
   "dependencies": {
       "express": "4.17.2",
       "lodash": "4.17.20",
-      "bunyan": "1.7.15",
+      "bunyan": "1.7.1",
       "cacache": "16.1.0",
       "chalk": "4.1.2",
       "changelog-filename-regex": "2.0.1",

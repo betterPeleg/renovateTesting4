@@ -5,7 +5,7 @@
       "lodash": "4.17.20",
       "bunyan": "1.7.15",
       "cacache": "16.1.0",
-      "chalk": "4.1.2",
+      "chalk": "5.0.1",
       "changelog-filename-regex": "2.0.1",
       "clean-git-ref": "2.0.1",
       "commander": "9.2.0",
